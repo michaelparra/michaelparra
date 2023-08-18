@@ -1,0 +1,6 @@
+- Release Manager - DevOps para Deloitte en el cual interactúe entre los desarrolladores y los administradores de la plataforma salesforce para diferentes clientes del ramo retail en Chile.
+    De igual forma hice las labores de administración de la plataforma salesforce en detalle, actividades tales como manejo de usuarios, modificacion de endpoints y metadata en general, activacion de sitios, activacion/desactivacion de reglas de validacion, workflow entre otros.
+- Líder técnico salesforce en BCI y mis actividades fueron la de gestionador o algo parecido a jefe de proyecto en el cual interactúe con la célula para el proyecto comprendidos por PO, BA, Scrum, TL, desarrolladores e integradores.
+- DevOps practitioner en BCI anteriormente en el cual me encargaba de implementar los desarrollos en las diferentes plataformas del banco usando herramientas de CI/CD o legacy.
+  
+Adicionalmente poseo conocimiento de versionamiento y plataformas como github, gitlab, bitbucket (implementación de metadata salesforce mediante un pipeline en bitbucket), pro activamente he estado capacitandome en GCP, azure ya que espero certificarme pronto como Associate en dichas plataformas, ya poseo una certificación Associate en Salesforce y certificación profesional SCRUM. Mi nivel de inglés es intermedio-conversacional.
